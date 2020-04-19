@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Change It Up
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: /images/logo simple.jpg
 description: Hally is a modern and minimal Jekyll theme for sharing your ideas.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -10,10 +10,10 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #-------------------------------
 # Author Settings
 author:
-  name: Howard Burns
-  image: '/images/01.jpg'
-  avatar: '/images/01.jpg'
-  description: My name is Howard Burns. I'm a freelance photographer based in Denver. I like being free and enjoying every moment.
+  name: Change It Up
+  image: '/images/logo simple.jpg'
+  avatar: '/images/logo simple.jpg'
+  description: "Harnessing the powerful collective will to make positive changes: in ourselves, in our communities, and for the planet."
 
 
 #-------------------------------
@@ -22,9 +22,9 @@ author:
 # Example of adding a new link to the footer - {icon: "ion-logo-github", link: "https://github.com"}
 # Other icons can be found at https://ionicons.com/v4/
 contact:
-- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {name: "Facebook", icon: "ion-logo-facebook", link: "https://facebook.com"}
-- {name: "Dribbble", icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+#- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}
+- {name: "Facebook", icon: "ion-logo-facebook", link: "https://www.facebook.com/groups/645681219333097"}
+#- {name: "Dribbble", icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 
 
 #-------------------------------
@@ -34,7 +34,7 @@ disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example
 
 #-------------------------------
 # Newsletter
-mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
+mailchimp: false # To enable the mailchimp form, use the value true. To turn off use the value false.
 mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 mailchimp-description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
 
