@@ -5,7 +5,7 @@ permalink: /about/
 image: '/images/aboutcommunity.jpg'
 ---
 
-My name is Robin Prospect. I’m a barrister, working and living in London, and aiming to make the most of life. I founded Change It Up in February 2020. Change It Up was born out of one of those brunches where, contentedly full of delicious food, I was interrogating my smart friend who works for a social enterprise. I wanted to know how to live a more sustainable life, and she had some actual answers for me. We discussed how great it would be to capture this knowledge and make it widely available. Suddenly, the floodgates of my mind opened and I realised that my community is packed full of knowledgeable people who want to make the world a better place.  
+My name is Robin Prospect. I’m a barrister, working and living in London, and aiming to make the most of life. I founded Change It Up in February 2020. Change It Up was born out of a brunch where, contentedly full of delicious food, I was interrogating my smart friend who works for a social enterprise. I wanted to know how to live a more sustainable life, and she had some actual answers for me. We discussed how great it would be to capture this knowledge and make it widely available. Suddenly, the floodgates of my mind opened and I realised that my community is packed full of knowledgeable people who want to make the world a better place.  
 
 > Change It Up is here because there is a powerful collective will to make positive changes: in ourselves, in our communities, and for the planet. 
 
