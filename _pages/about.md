@@ -2,20 +2,19 @@
 layout: page
 title: About
 permalink: /about/
-image: '/images/CIU community.jpg'
+image: '/images/aboutcommunity.jpg'
 ---
 
-Hi, my name is Howard Burns. I'm a freelance photographer based in Denver. I like being free and enjoying every moment. Sin tantum modo ad indicia veteris memoriae cognoscenda, curiosorum. Haec et tu ita posuisti, et verba vestra sunt. Idemne potest esse dies saepius, qui semel fuit? Ampulla enim sit necne sit, quis non iure optimo irrideatur, si laboret? Ego vero volo in virtute vim esse quam maximam; Serpere anguiculos, nare anaticulas, evolare merulas, cornibus uti videmus boves, nepas aculeis. Conferam tecum, quam cuique verso rem subicias; Si longus, levis.
+My name is Robin Prospect. I’m a barrister, working and living in London, and aiming to make the most of life. I founded Change It Up in February 2020. Change It Up was born out of one of those brunches where, contentedly full of delicious food, I was interrogating my smart friend who works for a social enterprise. I wanted to know how to live a more sustainable life, and she had some actual answers for me. We discussed how great it would be to capture this knowledge and make it widely available. Suddenly, the floodgates of my mind opened and I realised that my community is packed full of knowledgeable people who want to make the world a better place.  
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+> Change It Up is here because there is a powerful collective will to make positive changes: in ourselves, in our communities, and for the planet. 
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerum occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et potionibus, minorem voluptatem percipi quam rebus exquisitissimis ad epulandum. Non enim iam stirpis bonum quaeret, sed animalis. Qui autem esse poteris, nisi te amor ipse ceperit? Sic igitur in homine perfectio ista in eo potissimum, quod est optimum, id est in virtute, laudatur.
+There is a huge amount of knowledge in our networks about how positive changes can be made. Change It Up enables sharing of this knowledge. We talk to experts - who might be you -, do the research and road test practical changes. We share the TL;DR (too long, didn't read) clear steps that you can take. We write up our working in long form blog posts to enable you to follow our thinking.
 
-![Working day]({{site.baseurl}}/images/12.jpg)
-*Working day / James Adams*
+![Ideas]({{site.baseurl}}/images/ideas.jpg)
 
-In omni enim arte vel studio vel quavis scientia vel in ipsa virtute optimum quidque rarissimum est. Quod est, ut dixi, habere ea, quae secundum naturam sint, vel omnia vel plurima et maxima. Quodsi ipsam honestatem undique pertectam atque absolutam. Tecum optime, deinde etiam cum mediocri amico. Neque enim disputari sine reprehensione nec cum iracundia aut pertinacia recte disputari potest. An, partus ancillae sitne in fructu habendus, disseretur inter principes civitatis, P. Ut in geometria, prima si dederis, danda sunt omnia. Longum est enim ad omnia respondere, quae a te dicta sunt. Nam cui proposito sit conservatio sui, necesse est huic partes quoque sui caras suo genere laudabiles. Servari enim iustitia nisi a forti viro, nisi a sapiente non potest.
+Here is a flavour of the change challenges that are within the scope of this project: replacing dairy in our diets; reducing household waste; making bread; living in community; giving away money effectively; volunteering in a local project. And loads more... If you've thought of a change that would have a positive impact on individuals, society or the planet, we'd like to cover it, eventually!
 
-<p><iframe src="https://www.youtube.com/embed/nc4GiBEN08s" frameborder="0" allowfullscreen></iframe></p>
+We are currently getting a few change challenges up and running. The reports will be posted here once the challenges have been completed. If you want to be involved in the meantime, you can join the [Facebook group](https://www.facebook.com/groups/645681219333097), where we recruit testers and post the latest updates. 
 
-Ego quoque, inquit, didicerim libentius si quid attuleris, quam te reprehenderim. Iam insipientes alios ita esse, ut nullo modo ad sapientiam possent pervenire, alios, qui possent, si id egissent, sapientiam consequi. Id quaeris, inquam, in quo, utrum respondero, verses te huc atque illuc necesse est. Sed quid ages tandem, si utilitas ab amicitia, ut fit saepe, defecerit? Sed isti ipsi, qui voluptate et dolore omnia metiuntur, nonne clamant sapienti plus semper adesse quod velit quam quod nolit? Quae quidem sapientes sequuntur duce natura tamquam videntes; Quod enim dissolutum sit, id esse sine sensu, quod autem sine sensu sit, id nihil ad nos pertinere omnino. Idne consensisse de Calatino plurimas gentis arbitramur, primarium populi fuisse, quod praestantissimus fuisset in conficiendis voluptatibus? Utram tandem linguam nescio? Quod dicit Epicurus etiam de voluptate, quae minime sint voluptates.
+![Change It Up]({{site.baseurl}}/images/logo.jpg)
