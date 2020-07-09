@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Change It Up
-logo: /images/logo simple.jpg
+logo: /images/logo-simple.jpg
 description: "Harnessing the powerful collective will to make positive changes: in ourselves, in our communities, and for the planet."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://changeitup.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,8 +11,8 @@ url: "https://changeitup.org.uk" # the base hostname & protocol for your site, e
 # Author Settings
 author:
   name: Change It Up
-  image: '/images/logo simple.jpg'
-  avatar: '/images/logo simple.jpg'
+  image: '/images/logo-simple.jpg'
+  avatar: '/images/logo-simple.jpg'
   description: "Harnessing the powerful collective will to make positive changes: in ourselves, in our communities, and for the planet."
 
 
