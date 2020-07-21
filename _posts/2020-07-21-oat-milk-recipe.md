@@ -10,9 +10,9 @@ image:  '/images/oat-milk-2.jpg'
 Since starting the [zero waste challenge](https://changeitup.org.uk/zero-waste-food-packaging/), I realised that a large proportion of my weekly waste was oat milk cartons. So, I set out to start making my own. It's easy, cheap, and produces no waste at all. I fiddled around with a few recipes online and this is my tried and tested version. Let me know if you give it a go!
 
 ## Ingredients (makes 750ml)
-- 3.5 cups / 875 ml of water
+- 3.5 cups / 875ml of water
 - 1 date
-- 1 cup / 250 ml of oats
+- 1 cup / 250ml of oats
 - 1 tbsp rapeseed oil
 - Pinch of salt
 
