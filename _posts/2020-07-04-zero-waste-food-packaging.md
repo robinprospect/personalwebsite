@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Zero waste
+title:  Zero waste at home
 image:  '/images/zero-waste-blog-header.jpg'
 #tags:   [Fashion, Lifestyles]
 ---
@@ -73,7 +73,7 @@ Where it isn’t possible to avoid packaging, Micol has also been experimenting 
 
 The biggest success, for both of us, has been making our own oat milk. Oat milk is a winner on every front. If you use a lot of milk (the cereal eaters or compulsive latte drinkers) you get through several cartons of shop-bought a week. Making oat milk is really easy, extremely cheap, and zero waste. 
 
-I’ve played with a few recipes. Micol enjoys making oat milk at its very simplest, which is just oats whizzed up with water. It is one of the easiest vegan transitions for omnivores, as it is such a close replacement for cow milk. It has also been shown to be, environmentally, [the friendliest milk](https://www.bbc.co.uk/news/science-environment-46654042).
+I’ve played with a few recipes and you can find my tried and tested version [here](https://changeitup.org.uk/oat-milk-recipe/). Micol enjoys making oat milk at its very simplest, which is just oats whizzed up with water. It is one of the easiest vegan transitions for omnivores, as it is such a close replacement for cow milk. It has also been shown to be, environmentally, [the friendliest milk](https://www.bbc.co.uk/news/science-environment-46654042).
 
 Micol says that although she knew it wasn't going to be perfect, she's happy with the changes she has made through this challenge. She feels that good habits have been formed and she can see herself continuing on this journey in the future. The largest reductions in waste have come from buying loose vegetables and making oat milk. 
 
@@ -106,7 +106,7 @@ Think about reducing waste when you're making buying and cooking decisions.
 
 ### 3. Make your own
 - What packaging ends up in your bin most often? Could you make your own version? ⌛ 💰
-- Making oat milk is easy, quick and an excellent replacement for other milks. 💰
+- Making oat milk is easy, quick and an excellent replacement for other milks. Here's [my recipe](https://changeitup.org.uk/oat-milk-recipe/). 💰
 - If you're a fizzy drink fiend, look out for a secondhand SodaStream! 
 
 
