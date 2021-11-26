@@ -24,7 +24,7 @@ author:
 contact:
 #- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}
 #- {name: "Facebook", icon: "ion-logo-facebook", link: "https://www.facebook.com/groups/645681219333097"}
-#- {name: "LinkedIn", icon: '/images/linkedin_logo.png', link: "https://www.linkedin.com/in/robin-prospect-0b53a41a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXeOa%2FAZhSdeLO0YHIRqyPQ%3D%3D"}
+- {name: "LinkedIn", icon: '/images/linkedin_logo.png', link: "https://www.linkedin.com/in/robin-prospect-0b53a41a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXeOa%2FAZhSdeLO0YHIRqyPQ%3D%3D"}
 
 
 #-------------------------------
