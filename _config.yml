@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Robin Prospect
-logo: /images/logo-simple.jpg
+logo: /images/logo-simple
 description: "Facilitator ¦ Organisational development ¦ Diversity, equity and inclusion"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robinprospect.com" # the base hostname & protocol for your site, e.g. http://example.com
