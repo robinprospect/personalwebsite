@@ -1,19 +1,19 @@
 #-------------------------------
 # General Site Settings
-title: Change It Up
+title: Robin Prospect
 logo: /images/logo-simple.jpg
-description: "Harnessing the powerful collective will to make positive changes: in ourselves, in our communities, and for the planet."
+description: "Facilitator ¦ Organisational development ¦ Diversity, equity and inclusion"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://changeitup.org.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://robinprospect.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Change It Up
+  name: Robin Prospect
   image: '/images/logo-simple.jpg'
   avatar: '/images/logo-simple.jpg'
-  description: "Harnessing the powerful collective will to make positive changes: in ourselves, in our communities, and for the planet."
+  description: "Facilitator ¦ Organisational development ¦ Diversity, equity and inclusion"
 
 
 #-------------------------------
@@ -23,8 +23,8 @@ author:
 # Other icons can be found at https://ionicons.com/v4/
 contact:
 #- {name: "Twitter", icon: "ion-logo-twitter", link: "https://twitter.com"}
-- {name: "Facebook", icon: "ion-logo-facebook", link: "https://www.facebook.com/groups/645681219333097"}
-#- {name: "Dribbble", icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+#- {name: "Facebook", icon: "ion-logo-facebook", link: "https://www.facebook.com/groups/645681219333097"}
+#- {name: "LinkedIn", icon: '/images/linkedin_logo.png', link: "https://www.linkedin.com/in/robin-prospect-0b53a41a0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXeOa%2FAZhSdeLO0YHIRqyPQ%3D%3D"}
 
 
 #-------------------------------
