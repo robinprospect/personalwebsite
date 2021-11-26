@@ -11,8 +11,8 @@ url: "https://robinprospect.com" # the base hostname & protocol for your site, e
 # Author Settings
 author:
   name: Robin Prospect
-  image: '/images/logo-simple.jpg'
-  avatar: '/images/logo-simple.jpg'
+  image: '/images/logo-simple.png'
+  avatar: '/images/logo-simple.png'
   description: "Facilitator ¦ Organisational development ¦ Diversity, equity and inclusion"
 
 
